@@ -1,6 +1,6 @@
 
 
-<img src="assets/foodapplication.gif" alt="Démo de l'application" width="600" />
+![Démo de l'application](assets/foodapplication.gif)
 
 
 
